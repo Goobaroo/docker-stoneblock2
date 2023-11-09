@@ -1,4 +1,4 @@
-# [FTB Presents Stoneblock 2](https://feed-the-beast.com/modpack/ftb_presents_stoneblock_2) By FTB
+# [FTB Presents Stoneblock 2](https://feed-the-beast.com/modpack/4-ftb_presents_stoneblock_2) By FTB
 
 <!-- toc -->
 
