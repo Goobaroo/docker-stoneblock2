@@ -5,7 +5,7 @@ FROM openjdk:8u312-jre-buster
 LABEL version="1.23.0"
 LABEL homepage.group=Minecraft
 LABEL homepage.name="FTB Presents Stoneblock 2"
-LABEL homepage.icon="https://apps.modpacks.ch/modpacks/art/3/stoneblock-2.png"
+LABEL homepage.icon="https://cdn.feed-the-beast.com/blob/38/386ff1cc602943863eea02d642bb3107c6b4ab0008dc3cf144544165ef52a939.png"
 LABEL homepage.widget.type=minecraft
 LABEL homepage.widget.url=udp://Stoneblock2:25565
 
